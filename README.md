@@ -22,3 +22,7 @@ Neste curso você vai dominar todo o **git** e **github** _do zero ao profission
 [Youtube]()
 
 [Linkdin]()
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
