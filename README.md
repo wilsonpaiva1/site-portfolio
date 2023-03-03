@@ -5,11 +5,11 @@ Neste curso você vai dominar todo o **git** e **github** _do zero ao profission
 
 **Ultimos updates:**
 
--[x] Site responsivo.
+- [x] Site responsivo.
 
--[] Login com facebook.
+- [] Login com facebook.
 
--[] Pagina sobre a empresa
+- [] Pagina sobre a empresa
 
 ## Módulos:
 * Começandando com git
