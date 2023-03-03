@@ -4,13 +4,14 @@
 Neste curso você vai dominar todo o **git** e **github** _do zero ao profissional._
 
 ## Módulos:
-_Entendento oque é **git**
-Aprendento sobre  **respositório**, Trabalhando com branches._
-
+* Começandando com git
+* Aprendendo com branches
+* Git aançado
+* Usando github de forma profissional
 
 ### Rede social:
 [Instagram]()
 
 [Youtube]()
 
-[Linkdin]
+[Linkdin]()
